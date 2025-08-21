@@ -1,4 +1,4 @@
-# 🌲 Campground Listing System
+# 🌲 Campsite Listing System
 
 A full-stack web application that allows users to create, view, edit, and review campground listings. Built with the **MERN stack** principles (MongoDB, Express, Node.js) and EJS for server-side rendering, the platform integrates authentication, image uploads, and map location features to deliver a complete CRUD experience.
 
